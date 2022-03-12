@@ -36,3 +36,10 @@ body{
     padding: 5px;
     border-radius: 5px;
 }
+
+#explore-section .fas,#create-section.fas{
+    background:#fff;
+    color:#333;
+    padding: 5px;
+    border-radius: 5px;
+}
