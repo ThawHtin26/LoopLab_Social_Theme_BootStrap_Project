@@ -29,3 +29,10 @@ body{
 #home-section .home-inner{
     padding-top: 150px;
 }
+
+#explore-section .fas,#share-section.fas{
+    background:#333;
+    color:white;
+    padding: 5px;
+    border-radius: 5px;
+}
